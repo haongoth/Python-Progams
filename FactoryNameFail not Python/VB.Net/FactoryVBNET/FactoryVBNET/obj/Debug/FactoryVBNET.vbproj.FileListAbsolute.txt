@@ -1,0 +1,10 @@
+C:\Projects\VB.Net\FactoryVBNET\FactoryVBNET\bin\Debug\FactoryVBNET.exe.config
+C:\Projects\VB.Net\FactoryVBNET\FactoryVBNET\bin\Debug\FactoryVBNET.exe
+C:\Projects\VB.Net\FactoryVBNET\FactoryVBNET\bin\Debug\FactoryVBNET.pdb
+C:\Projects\VB.Net\FactoryVBNET\FactoryVBNET\bin\Debug\FactoryVBNET.xml
+C:\Projects\VB.Net\FactoryVBNET\FactoryVBNET\obj\Debug\FactoryVBNET.vbprojResolveAssemblyReference.cache
+C:\Projects\VB.Net\FactoryVBNET\FactoryVBNET\obj\Debug\FactoryVBNET.Resources.resources
+C:\Projects\VB.Net\FactoryVBNET\FactoryVBNET\obj\Debug\FactoryVBNET.vbproj.GenerateResource.Cache
+C:\Projects\VB.Net\FactoryVBNET\FactoryVBNET\obj\Debug\FactoryVBNET.exe
+C:\Projects\VB.Net\FactoryVBNET\FactoryVBNET\obj\Debug\FactoryVBNET.xml
+C:\Projects\VB.Net\FactoryVBNET\FactoryVBNET\obj\Debug\FactoryVBNET.pdb

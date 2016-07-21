@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  FactoryStruct.cpp
+  Factory.cpp
+c:\projects\vc++\factorystruct\factorystruct\factory.h(47): error C2011: 'Satcom': 'class' type redefinition
+  c:\projects\vc++\factorystruct\factorystruct\factory.h(29): note: see declaration of 'Satcom'
+c:\projects\vc++\factorystruct\factorystruct\factory.h(56): error C2011: 'CATV': 'class' type redefinition
+  c:\projects\vc++\factorystruct\factorystruct\factory.h(38): note: see declaration of 'CATV'
+  Generating Code...

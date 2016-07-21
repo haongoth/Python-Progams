@@ -1,0 +1,9 @@
+C:\Projects\C#\FactoryStructure\FactoryStructure\bin\Debug\FactoryStructure.exe.config
+C:\Projects\C#\FactoryStructure\FactoryStructure\obj\Debug\FactoryStructure.csprojResolveAssemblyReference.cache
+C:\Projects\C#\FactoryStructure\FactoryStructure\bin\Debug\FactoryStructure.exe
+C:\Projects\C#\FactoryStructure\FactoryStructure\bin\Debug\FactoryStructure.pdb
+C:\Projects\C#\FactoryStructure\FactoryStructure\obj\Debug\FactoryStructure.exe
+C:\Projects\C#\FactoryStructure\FactoryStructure\obj\Debug\FactoryStructure.pdb
+E:\Projects\C#\FactoryStructure\FactoryStructure\bin\Debug\FactoryStructure.exe.config
+E:\Projects\C#\FactoryStructure\FactoryStructure\obj\Debug\FactoryStructure.exe
+E:\Projects\C#\FactoryStructure\FactoryStructure\obj\Debug\FactoryStructure.pdb
